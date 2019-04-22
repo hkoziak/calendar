@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+table {
+  float: right;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 75%;
+}
+
+th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+header {
+  background-color: DodgerBlue;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
+nav {
+  float: left;
+  width: 20%;
+  height: 300px;
+  background: #2F4F4F;
+  padding: 20px;
+  color: FloralWhite;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+caption {
+  text-align: center;
+}
