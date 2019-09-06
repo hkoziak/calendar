@@ -10,5 +10,4 @@ If you want to try this by yourself, using [virtual environment](https://docs.py
 is highly recommended. Also, make sure you have [Flask](http://flask.pocoo.org/) installed to run web pages. All other needed
 libraries can be found in requirements.txt file. 
 
-*Please notice, that project is still developing.*
-_2nd semester project by Halyna Koziak, 1st year Computer Science student (Ukrainian Catholic University)_
+*Repository isn't developed anymore - this code is left as a memory of my first coursework (and all projects of 1st course in general).*
